@@ -1,2 +1,2 @@
-CREATE DATABASE teacinema_auth;
-CREATE DATABASE teacinema_users;
+CREATE DATABASE dewtix_auth;
+CREATE DATABASE dewtix_users;
